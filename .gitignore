@@ -1,0 +1,7 @@
+*.json
+*.csv
+*.log
+.scrapy/
+__pycache__/
+*.pyc
+scrapinghub.yml

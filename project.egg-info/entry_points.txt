@@ -1,0 +1,2 @@
+[scrapy]
+settings = jumia_scraper.settings

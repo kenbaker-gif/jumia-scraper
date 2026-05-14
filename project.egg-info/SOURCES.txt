@@ -1,0 +1,13 @@
+setup.py
+jumia_scraper/__init__.py
+jumia_scraper/items.py
+jumia_scraper/middlewares.py
+jumia_scraper/pipelines.py
+jumia_scraper/settings.py
+jumia_scraper/spiders/__init__.py
+jumia_scraper/spiders/jumia.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
