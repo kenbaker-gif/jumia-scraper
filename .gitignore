@@ -5,3 +5,4 @@
 __pycache__/
 *.pyc
 scrapinghub.yml
+scrapy_refernce.md
